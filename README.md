@@ -11,3 +11,4 @@
 * $ npm install vue ( instalacion de vue )
 * laravel / composer install 
 * migraciones laravel (ejecutar migraciones)
+* npm install jspdf --save (pdf)
